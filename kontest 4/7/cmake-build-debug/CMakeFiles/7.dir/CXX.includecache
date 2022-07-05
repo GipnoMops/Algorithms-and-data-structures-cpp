@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Asus/CLionProjects/algorithms/kontest 4/7/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+algorithm
+-
+set
+-
+map
+-
+

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Asus/CLionProjects/agorithms2/kontest10/1.2/main.cpp
+iostream
+-
+complex
+-
+vector
+-
+cmath
+-
+cassert
+-
+algorithm
+-
+iomanip
+-
+random
+-
+ctime
+-
+string
+-
+functional
+-
+

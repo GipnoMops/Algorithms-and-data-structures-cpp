@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Asus/CLionProjects/agorithms2/kontest5/1.2/main.cpp
+algorithm
+-
+execution
+-
+future
+-
+iostream
+-
+random
+-
+sstream
+-
+vector
+-
+profile.h
+C:/Users/Asus/CLionProjects/agorithms2/kontest5/1.2/profile.h
+
